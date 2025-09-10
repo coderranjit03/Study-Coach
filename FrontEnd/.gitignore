@@ -27,4 +27,17 @@ dist-ssr
 FrontEnd/.env.local
 
 # Ignore backend environment file
-BackEnd/.env
+BackEnd\.env
+
+node_modules/
+package-lock.json
+package.json
+
+venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+FrontEnd/package.json
+FrontEnd/package-lock.json
