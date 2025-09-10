@@ -1,0 +1,13 @@
+# Backend Dependencies
+# Run: pip install -r requirements.txt
+
+Flask==3.0.0
+Flask-CORS==4.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+supabase==1.2.0
+
+# Installation Instructions:
+# 1. Navigate to BackEnd directory
+# 2. Run: pip install -r requirements.txt
+# 3. Run: python app.py

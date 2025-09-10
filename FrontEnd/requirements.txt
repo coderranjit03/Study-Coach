@@ -1,0 +1,62 @@
+# Frontend Dependencies
+# Run: npm install
+
+# Core Dependencies
+react@^19.1.0
+react-dom@^19.1.0
+react-router-dom@^6.30.1
+vite@^4.5.0
+
+# UI & Styling
+@tailwindcss/postcss@^4.1.11
+@tailwindcss/typography@^0.5.16
+tailwindcss@^4.1.11
+autoprefixer@^10.4.21
+postcss@^8.5.6
+lucide-react@^0.525.0
+class-variance-authority@^0.7.1
+tailwind-variants@^1.0.0
+
+# Supabase
+@supabase/auth-helpers-react@^0.5.0
+@supabase/supabase-js@^2.52.0
+
+# Markdown & Content
+@uiw/react-markdown-preview@^5.1.4
+@uiw/react-md-editor@^4.0.8
+react-markdown@^10.1.0
+
+# HTTP & Data
+axios@^1.10.0
+
+# Utilities
+date-fns@^4.1.0
+file-saver@^2.0.5
+html2canvas@^1.4.1
+html2pdf.js@^0.10.3
+jspdf@^3.0.1
+
+# UI Components
+react-calendar@^6.0.0
+react-confetti@^6.4.0
+react-dropzone@^14.3.8
+react-hot-toast@^2.5.2
+sonner@^2.0.6
+
+# Charts
+recharts@^3.1.0
+
+# Development Dependencies
+@eslint/js@^9.30.1
+@types/react@^19.1.8
+@types/react-dom@^19.1.6
+@vitejs/plugin-react@^4.6.0
+eslint@^9.30.1
+eslint-plugin-react-hooks@^5.2.0
+eslint-plugin-react-refresh@^0.4.20
+globals@^16.3.0
+
+# Installation Instructions:
+# 1. Navigate to FrontEnd directory
+# 2. Run: npm install
+# 3. Run: npm run dev 
